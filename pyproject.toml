@@ -1,0 +1,5 @@
+[project]
+name = "open-webui-pipeline-for-ragflow"
+version = "0.1.0"
+description = "使用open-webui中的pipelines技术在open-webui中调用ragflow的agent实现基于知识库的智能对话，并拥有美观的界面。"
+requires-python = ">=3.10"
