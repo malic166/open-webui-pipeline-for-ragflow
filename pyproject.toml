@@ -5,3 +5,4 @@ description = "使用open-webui中的pipelines技术在open-webui中调用ragflo
 requires-python = ">=3.10"
 # guard against empty input
 # drop an unused branch
+# avoid re-reading the config on every call
